@@ -1,2 +1,2 @@
-# Shopping-Cart_1
+# Shopping-Cart
 Created with CodeSandbox
